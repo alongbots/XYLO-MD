@@ -24,5 +24,5 @@ export default {
   get ANTIDELETE_MODE() { return get('antidelete_mode', 'on') },
   get AUTOVIEW_STATUS() { return get('autoview_status', false) },
   get AUTOLIKE_STATUS() { return get('autolike_status', false) },
-  get SESSION_ID() { return process.env.SESSION_ID || 'DAVE-S*F=OQHE4CEKQA' }
+  get SESSION_ID() { return process.env.SESSION_ID || 'DAVE-S*F=BXTEP24W6J' }
 }
